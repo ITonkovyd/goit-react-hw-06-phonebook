@@ -42,7 +42,7 @@ export function App() {
         </>
       ) : (
         <p>
-          No contacts yet. <br /> You`re alone :c
+          No contacts yet. <br /> It's time to create new contacts!
         </p>
       )}
     </Container>
